@@ -2,10 +2,10 @@
     "query": [
         {
             "number": 1,
-            "name": "Paige",
-            "ip": "62.122.214.46",
+            "name": "Mesa",
+            "ip": "185.169.134.59",
             "port": 7777,
-            "online": 3,
+            "online": 666,
             "maxplayers": 1000,
             "password": false,
             "plotPoints": [
