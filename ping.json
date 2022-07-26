@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Mesa",
-            "ip": "185.169.134.59",
-            "port": 7777,
+            "name": "Brusko",
+            "ip": "65.21.218.137",
+            "port": 2741,
             "online": 666,
             "maxplayers": 1000,
             "password": false,
