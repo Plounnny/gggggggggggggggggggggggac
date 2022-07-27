@@ -3,8 +3,8 @@
         {
             "number": 1,
             "name": "Test",
-            "ip": "185.189.255.97",
-            "port": 1719,
+            "ip": "65.21.218.137",
+            "port": 2741,
             "online": 29,
             "maxplayers": 30,
             "password": false,
